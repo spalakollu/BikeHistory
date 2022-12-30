@@ -1,6 +1,6 @@
 # BikeHistory
 
-
+![nycbike](https://github.com/spalakollu/BikeHistory/blob/main/images/nycbike.png)
 
 
 In this dataset, we will explore the new york city bike rider's trips. The information about the rider's trip is located here. For the capstone project, we will be taking information from May 2022 to November 2022. At the time of beginning this project, data for december 2022 is not available. The dataset contains information on 676k trip riders from the last 6 months.
