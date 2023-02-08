@@ -27,35 +27,47 @@ The below outline of the executed projected explains the details involved in the
 ## 3) Data Preparation
    - ### 3.1) Numerical and Categorical Attributes
    - ### 3.2) Clean Dataset by dropping rows and columns 
-   - ### 3.3) Rename Columns
-   - ### 3.4) Data Analysis
-      - ### 3.4.1) Univariate Analysis (Descriptive Statistics)
-         - ### 3.4.1.1) Response Variable
-         - ### 3.4.1.2) Numerical Variables
-         - ### 3.4.1.3) Categorical Variables
-      - ### 3.4.2) Bivariate Analysis (Inferential Statistics)
-      - ### 3.4.3) Multivariate Analysis
+   - ### 3.3) Check for Outliers
+   - ### 3.4) Check Unbalanced Data
+   - ### 3.5) Rename Columns
+   - ### 3.6) Descriptive Analysis
+      - ### 3.6.1) Numerical and categorical variables
+         - ### 3.6.1.1) Numerical Variables
+         - ### 3.6.1.2) Categorical Variables
+      - ### 3.6.2) Predictors and Class Correlation¶
+   - ### 3.7) Data Analysis
+      - ### 3.7.1) Univariate Analysis ( Descriptive Statistics)
+      - ### 3.7.2) Bivariate Analysis 
+      - ### 3.7.3) Multivariate Analysis
 ## 4) Data Modelling 
   - ### 4.1) Rescaling
-  - ### 4.2)Transformation
-      - ### 4.2.1) Encoding
-      - ### 4.2.2) Response Variable Transformation
-  - ### 4.3) Feature Selection
-      - ### 4.3.1) Feature Slection using KNN and SFS
-      - ### 4.3.2) Feature Importance using Permutation Importance
-  - ### 4.4)Models 
-      - ### 4.4.1) Linear Regression 
-      - ### 4.4.2) Linear Regression - With Cross Validation
-         - ### 4.4.2.1) Hyperparameter tuning
-  - ### 4.4.3) Linear Regression - Lasso 
-  - ### 4.4.4) Ridge Regression 
-  - ### 4.4.5) Ridge Regression with GridSearchCV
-  - ### 4.4.6) Ridge Regression - Transformed Target Regression
+  - ### 4.2) Encoding
+  - ### 4.3) Transformation
+  - ### 4.4) Feature Selection
+  - ### 4.5) Modeling 
+      - ### 4.5.1) Baseline Model 
+      - ### 4.5.2) Logistic Regression 
+         - ### 4.5.2.1) Logistic Regression Performance
+  - ### 4.5.3) Logistic Regression - Cross Validation 
+  - ### 4.5.4) K Nearest Neighbor 
+          - ### 4.5.4.1) Performance
+          - ### 4.5.4.2) KNN Neighbors fine tuning
+  - ### 4.5.5) SVM 
+  - ### 4.5.6) SVM - Cross Validation
+  - ### 4.5.7) Decision Tree Classifier
+          - ### 4.5.7.1) Performance
+  - ### 4.5.8) DecisionTreeClassifier - Cross Validation
+  - ### 4.5.9) Random Forest Classifier 
+  - ### 4.5.10) RandomForestClassifier - Cross Validation
+  - ### 4.5.11) Logistic Regression - GridSearchCV
+  - ### 4.5.12) KNN - RandomSearchCV
+  - ### 4.5.13) SVM with GridSearchCV
+  - ### 4.5.14) DecisionTrees - RandomizedSearchCV
+  - ### 4.5.15) RandomForestClassifier - GridSearchCV
 ## 5) Evaluation 
   - ### 5.1) Metric Evaluation
       - ### 5.1.1) Identification of Evaluation Metric
       - ### 5.1.2) Rationale behind use of Evaluation Metric. 
-  - ### 5.2) Interpretation of Coefficients
 ## 6) Deployment
 ## 7) Recommendations to the dealer. Details 
 ## 8) Next Steps
