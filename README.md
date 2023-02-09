@@ -12,11 +12,7 @@ CRISP-DM - This is the project management method used in the process to determin
 ![crispdm](https://github.com/spalakollu/BikeHistory/blob/main/images/crisp.png)
 
 The below outline of the executed projected explains the details involved in the CRISP-DM process.
-## 1) Business Understanding 
-   - ### 1.1) Business Question
-             Given a dataset containing information bike riders trip attributes, predict the class of biker riders. 
-   - ### 1.2) Understanding of Business 
-              Citibank nyc publishes the bike riders trip data every month. The data contains information which will help to answer the following questions. 
+## 1) Business Understanding  
 ## 2) Data Understanding 
    - ### 2.1) Data collection - imports
    - ### 2.2) Data collection - Load data
