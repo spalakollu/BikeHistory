@@ -14,27 +14,7 @@ CRISP-DM - This is the project management method used in the process to determin
 The below outline of the executed projected explains the details involved in the CRISP-DM process.
 ## 1) Business Understanding  
 ## 2) Data Understanding 
-   - ### 2.1) Data collection - imports
-   - ### 2.2) Data collection - Load data
-   - ### 2.3) Data collection - describe data
-   - ### 2.4) Data collection - data types
-   - ### 2.5) Data collection - data dimensions
-   - ### 2.6) Data collection - NaN values
 ## 3) Data Preparation
-   - ### 3.1) Numerical and Categorical Attributes
-   - ### 3.2) Clean Dataset by dropping rows and columns 
-   - ### 3.3) Check for Outliers
-   - ### 3.4) Check Unbalanced Data
-   - ### 3.5) Rename Columns
-   - ### 3.6) Descriptive Analysis
-      - ### 3.6.1) Numerical and categorical variables
-         - ### 3.6.1.1) Numerical Variables
-         - ### 3.6.1.2) Categorical Variables
-      - ### 3.6.2) Predictors and Class Correlation¶
-   - ### 3.7) Data Analysis
-      - ### 3.7.1) Univariate Analysis ( Descriptive Statistics)
-      - ### 3.7.2) Bivariate Analysis 
-      - ### 3.7.3) Multivariate Analysis
 ## 4) Data Modelling 
   - ### 4.1) Rescaling
   - ### 4.2) Encoding
@@ -55,9 +35,7 @@ The below outline of the executed projected explains the details involved in the
   - ### 4.5.14) DecisionTrees - RandomizedSearchCV
   - ### 4.5.15) RandomForestClassifier - GridSearchCV
 ## 5) Evaluation 
-  - ### 5.1) Metric Evaluation
-      - ### 5.1.1) Identification of Evaluation Metric
-      - ### 5.1.2) Rationale behind use of Evaluation Metric. 
 ## 6) Deployment
 ## 7) Recommendations to the dealer. Details 
 ## 8) Next Steps
+## 9)<a href="https://github.com/spalakollu/BikeHistory/blob/main/Citi%20Bike%20Data%20Analysis.pdf">Non-Technical Presentation</a>
